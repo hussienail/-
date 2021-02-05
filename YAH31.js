@@ -1,5 +1,3 @@
-
-$.getScript('https://oa20660.000webhostapp.com/chatnsh/iraqna/iraqna/user.js');
 $(`
 <div class="hand nosel fl uzr borderg uid174a8496ca9xdf880cb6-x-dsqcih inroom" style="text-align:left;background-color:white;border-radius:0px!important;width:99%;margin:0px;padding:1px;" v="10000">
       <img style="width: 36px; height: 36px; margin-left: 1px; background-image: url(&quot;pic/1600583176211.jpg&quot;);" class="fitimg fl u-pic ">
@@ -31,7 +29,7 @@ $(`
     </div>
 `).insertBefore(".lonline.light.break");
 'https:'!=location.protocol&&(location.protocol='https:'),
-$(`<img style="width:100%;    margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="
+$(`<img style="width:100%;    margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="https://www.up-00.com/i/00192/f3rpogxx2cb1.gif
 " >
 <div id="asim13"><a id="asim21" href="contact.html" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">اتصل بنا</a>
 <a id="asim21" href="rules.html" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">القوانين</a>
@@ -57,4 +55,3 @@ $(`<center><div><div width="99.5%" style="background-image:url();color: #ffffff;
 $('.break.light').css({"background-image":"url()"});
 $('.break.light').css({"background-image":"url()"});
  $("label.label.tc.border.cp.btn.label-danger.fl").html("<span class='fl fa fa-star'></span> لوحة تحكم شأت جـفى ") 
- 
